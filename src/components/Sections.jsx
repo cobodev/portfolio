@@ -5,19 +5,19 @@ function Sections() {
   const SECTIONS = [
     {
       title: 'ABOUT ME',
-      className: 'flex flex-col justify-between w-1/4 hover:bg-red-600 duration-200 border-r border-black dark:border-white'
+      className: 'flex flex-col justify-between w-1/4 hover:bg-neonTurquoise duration-200 border-r border-black dark:border-white'
     },
     {
       title: 'EXPERIENCE',
-      className: 'flex flex-col justify-between w-1/4 hover:bg-blue-600 duration-200 border-r border-black dark:border-white'
+      className: 'flex flex-col justify-between w-1/4 hover:bg-neonPink duration-200 border-r border-black dark:border-white'
     },
     {
       title: 'SIDE PROJECTS',
-      className: 'flex flex-col justify-between w-1/4 hover:bg-violet-600 duration-200 border-r border-black dark:border-white'
+      className: 'flex flex-col justify-between w-1/4 hover:bg-neonTurquoise duration-200 border-r border-black dark:border-white'
     },
     {
       title: 'CONTACT',
-      className: 'flex flex-col justify-between w-1/4 hover:bg-green-600 duration-200'
+      className: 'flex flex-col justify-between w-1/4 hover:bg-neonPink duration-200'
     },
   ]
 

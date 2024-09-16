@@ -48,7 +48,10 @@ function Intro() {
           <span className='hover:text-neonTurquoise duration-300'>O</span>
 
         </div>
-        <div className={`tracking-[1rem] mt-2 duration-300 ${!hovering && 'text-[0px]'}`}>
+        <div className={`
+          tracking-[1rem] bg-neutral-900 dark:bg-neutral-100 text-neutral-100 dark:text-neutral-900 mt-2 pl-4 duration-300 
+          ${!hovering && 'text-[0px]'}
+        `}>
           WEB DEVELOPER
         </div>
       </div>
